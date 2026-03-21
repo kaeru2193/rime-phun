@@ -1,0 +1,2314 @@
+# encoding: utf-8
+---
+name: phun
+version: "2026.03.21"
+sort: original
+...
+
+人	ha1
+人衆	ha1 mail2
+人昆	ha1 qi1
+力	nai2
+做力	hil3 nai2
+手	taos3
+開手	we1 taos3
+我	xe3
+我衆	xe3 mail2
+木	lung2
+木肉	lung2 nang2
+水	so3
+滴水	tai2 so3
+滴水盤	tai2 so3 xu1
+水丸	so3 luong3
+口	ge2
+食	bua1
+果	baon2
+赤果	was1 baon2
+白柿	kaing2 je2
+汝	kus3
+汝衆	kus3 mail2
+大	qem3
+大小	qem3 yao1
+小	yao1
+小名	yao1 jual1
+衆	mail2
+国	nun2
+土	wao2
+火	tang2
+火食	tang2 bua1
+走火	wem2 tang2
+草	cai1
+赤	was1
+日	kuang1
+日暁	kuang1 mi1
+天	vas1
+天集	vas1 nem2
+天京	vas1 za3
+日天	kuang1 vas1
+月天	vo2 vas1
+二十八顔	buan3 tail1 lu3 ka1
+月顔	vo2 ka1
+気天	sing1 vas1
+火天	tang2 vas1
+大丸	qem3 luong3
+地丸	ho3 luong3
+地丸日	ho3 luong3 kuang1
+地丸月	ho3 luong3 vo2
+地世	ho3 fua1
+水天	so3 vas1
+土天	wao2 vas1
+木天	lung2 vas1
+恒山天	duang2 das1 vas1
+雲宇天	pu2 duo1 vas1
+銀雪天	tuo3 nan1 vas1
+天魂	vas1 num2
+天慶	vas1 nu3
+水天慶	so3 vas1 nu3
+土天慶	wao2 vas1 nu3
+火天慶	tang2 vas1 nu3
+気天慶	sing1 vas1 nu3
+木天慶	lung2 vas1 nu3
+万天	ao1 vas1
+天船	vas1 cua3
+青	qai3
+去	ma2
+去時	ma2 tua2
+先時	taol3 tua2
+去知	ma2 qai2
+正	fua3
+目正	ke2 fua3
+為	xel3
+月	vo2
+一	wi1
+二	buan3
+三	gal3
+四	fai1
+五	luong1
+五材	luong1 jaim3
+言	bun2
+伴言倫	nuo2 bun2 tuo2
+晴	jen3
+海	guan1
+深海	xai2 guan1
+海花	guan1 xas1
+骨海花	nes2 guan1 xas1
+海床	guan1 ming1
+大海	qem3 guan1
+皇	tuan1
+王	luam2
+上	ling3
+上神	ling3 to2
+行上	yam1 ling3
+下	ya3
+行下	yam1 ya3
+来下	huas3 ya3
+下人	ya3 ha1
+左	wo1
+右	van3
+広	dua1
+広働	dua1 kaing1
+栄	fun1
+栄言	fun1 bun2
+栄国	fun1 nun2
+栄天国	fun1 vas1 nun2
+日国	kuang1 nun2
+日言	kuang1 bun2
+高国	wing3 nun2
+高言	wing3 bun2
+定言	lua3 bun2
+定字	lua3 qo1
+栄民	fun1 zom3
+足	yuas1
+返足	buo1 yuas1
+行	yam1
+水行	so3 yam1
+行元	yam1 sua3
+行処	yam1 yai1
+目	ke1
+互目	bal3 ke2
+之	kua1
+之時	kua1 tua2
+之日	kua1 kuang1
+先日	taol3 kuang1
+去日	ma2 kuang1
+遠去日	sal2 ma2 kuang1
+遠先日	sal2 taol3 kuang1
+四先日	fai1 taol3 kuang1
+四去日	fai1 ma2 kuang1
+之夜	kua1 lai1
+之旬	kua1 gaos2
+先旬	taol3 gaos2
+去旬	ma2 gaos2
+之年	kua1 wais2
+先年	taol3 wais2
+去年	ma2 wais2
+在	suo2
+居	bem3
+居居	bem3 bem3
+持	peng3
+内	yuo2
+内物	yuo2 kao1
+内衣	yuo2 nel1
+外衣	hin2 nel1
+含	lom2
+今	gaing2
+今敏	gaing2 pun2
+時	tua2
+時建	tua2 xes1
+時斉機	tua2 vang2 el2
+時斉	tua2 vang2
+握時斉	suom3 tua2 vang2
+腕巻時斉	nol2 so2 tua2 vang2
+腕巻雷脳	nol2 so2 main2 ha3
+先	taol3
+先鏡	taol3 fun3
+夜先鏡	lai1 taol3 fun3
+行先	yam1 taol3
+行背	yam1 cao3
+神	to2
+雨	huo1
+風	tem3
+風音	tem3 jua1
+飛	dail2
+来飛	huas3 dail2
+飛言	dail2 bun2
+処	yai1
+之処	kua1 yai1
+其処	ce1 yai1
+彼処	heng3 yai1
+処虚	yai1 ua3
+幹向	man2 mu3
+二幹向	buan3 man2 mu3
+三幹向	gal3 man2 mu3
+其	ce1
+彼	heng3
+山	das1
+山羅	das1 gan2
+雲虚上山	pu2 ua3 ling3 das1
+心	nes2
+心活	nes2 bu2
+心臓	nes2 dais2
+声心	we2 nes2
+思	sao2
+思声	sao2 we2
+思態	sao2 tus2
+集談	nem2 xi2
+油	xu2
+燃	lis1
+燃魂	lis1 num2
+燃魂人	lis1 num2 ha1
+家	be1
+庵蔓	tang1 ton2
+人家	ha1 be1
+衆庵	mail2 tang1
+造家	him2 be1
+習家	muas1 be1
+習位	muas1 dun2
+外習	hin2 muas1
+現	vam1
+光	mam3
+光標	mam3 dai1
+光廻	mam3 wang1
+杖灯	qo1 puang3
+白	kaing2
+昼	tas2
+上昼	ling3 tas2
+下昼	ya3 tas2
+昼南	tas2 zing3
+央北	na2 po2
+夜	lai1
+央夜	na2 lai1
+丸	luong3
+憤丸	gua1 luong3
+飛憤	dail2 gua1
+小粒央	yao1 duol2 na2
+小粒憤丸	yao1 duol2 gua1 luong3
+水材憤丸	so3 jaim3 gua1 luong3
+気	sing1
+気風	sing1 tem3
+圧位	mu1 dun2
+気圧位	sing1 mu1 dun2
+水圧位	so3 mu1 dun2
+気思	sing1 sao2
+世	fua1
+悉世	xuo1 fua1
+之世	kua1 fua1
+領紙	ba1 nuas2
+筆	fa2
+筆法	fa2 wel2
+石筆	hais3 fa2
+丸筆	luong3 fa2
+筆杯	fa2 paon1
+書	sua3
+書声字	sua3 we2 qo1
+書魂字	sua3 num2 qo1
+書門	sua3 fuon3
+記	cuang2
+単記	ce1 cuang2
+羅記	gan2 cuang2
+区書	ning1 sua3
+記盤	cuang2 xu1
+心記	nes2 cuang2
+女	zi1
+女人	zi1 ha1
+男人	ti1 ha1
+侶	duo2
+媛	lun3
+然	kem1
+歩	kua1
+歩目	kua1 ke2
+整	lao1
+倫	tuo2
+倫強	tuo2 de2
+違倫	he2 tuo2
+民	zom3
+眠	lo3
+覆毛	fuo2 bes3
+眠巾	lo3 ye1
+床巾	ming1 ye1
+酸足床巾	tas1 yuas1 ming1 ye1
+眠床	lo3 ming1
+頭	mum2
+頭椅	mum2 luo3
+向	mu3
+向外	mu3 hin2
+刈	maong2
+刈貨	maong2 ku1
+阻刈	zuam1 maong2
+刈壁	maong2 di2
+刈時	maong2 tua2
+後端時	tuas2 zing1 tua2
+不刈	ki1 maong2
+園	qua3
+都園	tal2 qua3
+花園	xas1 qua3
+都	tal2
+京	za3
+喜	hai2
+喜汝	hai2 kus3
+喜旭	hai2 ju1
+澄覚如	nuang1 kai2 lol1
+喜夜	hai2 lai1
+穏永	wai1 hes2
+来	huas3
+客人	duam1 ha1
+来元	huas3 sua3
+字	qo1
+字基	qo1 len1
+字詞	qo1 zang1
+羅字	gan2 qo1
+名字	jual1 qo1
+做字	hil3 qo1
+到居做字	tel1 bem3 hil3 qo1
+到虚做字	tel1 ua3 hil3 qo1
+様字	tuam3 qo1
+論做字	ca1 hil3 qo1
+糊論字	wam1 ca1 qo1
+結字	muang1 qo1
+羅話字	gan2 cai2 qo1
+数字	mis1 qo1
+心字	nes2 qo1
+集累字	nem2 wil1 qo1
+元位詞	sua3 dun2 zang1
+論位詞	ca1 dun2 zang1
+到位詞	tel1 dun2 zang1
+栄字	fun1 qo1
+字盤	qo1 xu1
+欲	i3
+要	peng1
+做求	hil3 vao1
+刃	na1
+刃粒央	na1 duol2 na2
+交刃	wi3 na1
+制	baom2
+縦不	nuan1 ki1
+不縦	ki1 nuan1
+何令	naol3 puan3
+制止	baom2 zua3
+雷	main2
+雷力	main2 nai2
+雷門	main2 fuon3
+上門	ling3 fuon3
+下門	ya3 fuon3
+雷高	main2 wing3
+雷重	main2 wan3
+雷阻	main2 zuam1
+静流雷	fi3 caos1 main2
+揺流雷	kuan3 caos1 main2
+雷記	main2 cuang2
+録紙	jao2 nuas2
+雷脳	main2 ha3
+雷画	main2 sao1
+脳機	ha3 el2
+行脳	yam1 ha3
+机脳	las3 ha3
+行談機	yam1 xi2 el2
+行談	yam1 xi2
+手脳	taos3 ha3
+算序言	buo2 bi1 bun2
+算序	buo2 bi1
+雷機	main2 el2
+雷灯	main2 puang3
+油灯	xu2 puang3
+灯瓶	puang3 zua2
+雷透	main2 li1
+透雷	li1 main2
+並透雷	suol3 li1 main2
+雷楽	main2 yao2
+生	dai1
+生日	dai1 kuang1
+生様	dai1 tuam3
+脳	ha3
+臓	dais2
+臓痛	dais2 muo2
+頭痛	mum2 muo2
+氷	hua1
+氷瑠	hua1 ja1
+瑠物	ja1 kao1
+流瑠	caos1 ja1
+流瑠画機	caos1 ja1 sao1 el2
+氷雲	hua1 pu2
+雲	pu2
+高雲	wing3 pu2
+雲雲	pu2 pu2
+門	fuon3
+水門	so3 fuon3
+火門	tang2 fuon3
+気門	sing1 fuon3
+土門	wao2 fuon3
+門言	fuon3 bun2
+門圧	fuon3 mu1
+門杖	fuon3 qo1
+雷門圧	main2 fuon3 mu1
+領門	ba1 fuon3
+開	we1
+領	ba1
+領居	ba1 bem3
+蔓領	ton2 ba1
+領軸	ba1 gao2
+領軸人	ba1 gao2 ha1
+和領	wom2 ba1
+領声	ba1 we2
+京言	za3 bun2
+天京言	vas1 za3 bun2
+昆宇言	qi1 duo1 bun2
+紙	nuas2
+書帳	sua3 sus3
+糸	buo3
+糸虚	buo3 ua3
+草糸	cai1 buo3
+獣糸	mul1 buo3
+琥糸	kai1 buo3
+石糸	hais3 buo3
+終	ki3
+網	mua1
+蔓処	ton2 yai1
+蔓架	ton2 lim1
+網壁	mua1 di2
+雷蔓	main2 ton2
+衆網	mail2 mua1
+印	sua1
+印字	sua1 qo1
+墨印	hos1 sua1
+政	pel2
+政士	pel2 la2
+政力	pel2 nai2
+虫	cuo2
+虫痘	cuo2 za2
+小蛆	yao1 buam1
+病蛆	cun1 buam1
+蛮	pao2
+蛮獣	pao2 mul1
+使	hu3
+使能	hu3 wal1
+人使能	ha1 hu3 wal1
+不	ki1
+竹	a2
+六	lis3
+好	wam3
+好人	wam3 ha1
+造	him2
+造建	him2 xes1
+回造	pel1 him2
+思造	sao2 him2
+道	gim1
+大道	qem3 gim1
+道行	gim1 yam1
+元	sua3
+元処	sua3 yai1
+獣	mul1
+獣昆	mul1 qi1
+草昆	cai1 qi1
+奶獣	ku3 mul1
+獣声	mul1 we2
+肉	nang2
+力肉	nai2 nang2
+周	fuon2
+周囲	fuon2 dai3
+周目	fuon2 ke2
+周隣	fuon2 mo2
+回	pel1
+回生	pel1 dai1
+常則	xu3 cua2
+年	wais2
+年薄	wais2 gail3
+薄人	gail3 ha1
+立人	qai1 ha1
+年高	wais2 wing3
+男	ti1
+材	jaim3
+材数	jaim3 mis1
+水材	so3 jaim3
+暁材	mi1 jaim3
+炭材	si3 jaim3
+気材	sing1 jaim3
+火材	tang2 jaim3
+泡材	se1 jaim3
+礬材	min1 jaim3
+瑠材	ja1 jaim3
+明材	nu1 jaim3
+硫材	haom3 jaim3
+塩材	waos2 jaim3
+灰材	da3 jaim3
+鉄材	hao1 jaim3
+銅材	qao2 jaim3
+銀材	tuo3 jaim3
+金材	va2 jaim3
+狩	ku2
+豚	xe1
+蛮豚	pao2 xe1
+豚肉	xe1 nang2
+死	sil3
+水死	so3 sil3
+喉閉	sas2 gong3
+筋	las2
+三筋囲	gal3 las2 dai3
+等三筋囲	muos3 gal3 las2 dai3
+四筋囲	fai1 las2 dai3
+五筋囲	luong1 las2 dai3
+多筋囲	dua2 las2 dai3
+遠	sal2
+遠立	sal2 qai1
+灰	da3
+炭	si3
+塩	waos2
+稲	xe2
+米	dao3
+粉	zo2
+粉粉	zo2 zo2
+乾乾	so1 so1
+粒	duol2
+小粒	yao1 duol2
+幹基粒	man2 len1 duol2
+架粒	lim1 duol2
+架気	lim1 sing1
+上架粒	ling3 lim1 duol2
+下架粒	ya3 lim1 duol2
+粒和	duol2 wom2
+単小粒粒和	ce1 yao1 duol2 duol2 wom2
+水粒	so3 duol2
+雷粒	main2 duol2
+間粒	tu1 duol2
+立	qai1
+基	len1
+基筆	len1 fa2
+算序基筆	buo2 bi1 len1 fa2
+基材	len1 jaim3
+恨	gon2
+恨憤	gon2 gua1
+恨憤人	gon2 gua1 ha1
+等	muos3
+等向	muos3 mu3
+虚等	ua3 muos3
+斉言	vang2 bun2
+世等	fua1 muos3
+伴	nuo2
+遊	dao1
+遊天	dao1 vas1
+遊数	dao1 mis1
+遊思	dao1 sao2
+長	kail3
+軸長	gao2 kail3
+越長	kua2 kail3
+脚	wo3
+走	wem2
+跳	go3
+跳下	go3 ya3
+跳暗	go3 tu2
+立跳	qai1 go3
+越	kua2
+越目	kua2 ke2
+乗	wang2
+兵	nal3
+軍	xung3
+戦	bas2
+戦船	bas2 cua3
+皿	puang1
+米皿	dao3 puang1
+盤	xu1
+珠盤	juan2 xu1
+軍盤	xung3 xu1
+盤戦	xu1 bas2
+数	mis1
+上数	ling3 mis1
+下数	ya3 mis1
+整数	lao1 mis1
+体	vao3
+熱	suo3
+熱水	suo3 so3
+熱冷	suo3 pil1
+気熱	sing1 suo3
+熱病	suo3 cun1
+川	huo2
+玉川	kuon3 huo2
+与据向玉川行	tual2 mo1 mu3 kuon3 huo2 yam1
+広川	dua1 huo2
+丘	zo3
+平丘	xem1 zo3
+交	wi3
+天交	vas1 wi3
+画交	sao1 wi3
+巾	ye1
+手巾	taos3 ye1
+旭	ju1
+日旭	kuang1 ju1
+日落	kuang1 jua3
+旭天	ju1 vas1
+代	yo2
+代季	yo2 wai3
+代和	yo2 wom2
+代先	yo2 taol3
+代先由幹	yo2 taol3 pis3 man2
+姉	guong1
+大姉	qem3 guong1
+隣	mo2
+隣糊	mo2 wam1
+少隣	hain1 mo2
+遠隣	sal2 mo2
+座	ma3
+座処	ma3 yai1
+車泊	te1 jung2
+做	hil3
+做能	hil3 wal1
+大做能	qem3 hil3 wal1
+小做能	yao1 hil3 wal1
+汝去做	kus3 ma2 hil3
+喜伴慶	hai2 nuo2 nu3
+画	sao1
+画士	sao1 la2
+画出	sao1 kong3
+画機	sao1 el2
+銀影	tuo3 hi2
+思影	sao2 hi2
+印影	sua1 hi2
+影機	hi2 el2
+飛影	dail2 hi2
+飛影機	dail2 hi2 el2
+能	wal1
+透仙	li1 taing3
+透仙人	li1 taing3 ha1
+基能	len1 wal1
+目能	ke2 wal1
+耳能	ga2 wal1
+透	li1
+暁	mi1
+暁果	mi1 baon2
+固暁果	nual1 mi1 baon2
+糖暁果	li2 mi1 baon2
+暁材気	mi1 jaim3 sing1
+拠	cang2
+仁	hao2
+仁大	hao2 qem3
+地	ho3
+地洞	ho3 zaos2
+大地	qem3 ho3
+昇	dai2
+追	yuon2
+廻追	wang1 yuon2
+圧	mu1
+啊	a3
+央	na2
+静	fi3
+静天	fi3 vas1
+僻	waing1
+散僻	cum3 waing1
+我僻其	xe3 waing1 ce1
+森	yuon1
+万	ao1
+万人	ao1 ha1
+万定	ao1 lua3
+七	dam2
+八	lu3
+九	yan1
+零	bao2
+十	tail1
+百	pai2
+千	tuong2
+刻	cim1
+分	gual2
+秒	la3
+田	cin2
+田人	cin2 ha1
+永	hes2
+永印	hes2 sua1
+何	naol3
+何処	naol3 yai1
+何時	naol3 tua2
+何人	naol3 ha1
+何由	naol3 pis3
+何法	naol3 wel2
+何態	naol3 tus2
+之昆	kua1 qi1
+其昆	ce1 qi1
+彼昆	heng3 qi1
+手何	taos3 naol3
+之手	kua1 taos3
+其手	ce1 taos3
+彼手	heng3 taos3
+如	lol1
+宗	mai1
+木宗	lung2 mai1
+宇木	duo1 lung2
+清	su1
+尿	xai3
+石	hais3
+夜瑠石	lai1 ja1 hais3
+掘炭	zol1 si3
+掘油	zol1 xu2
+燃石	lis1 hais3
+赤粒石	was1 duol2 hais3
+白粒石	kaing2 duol2 hais3
+神旭石	to2 ju1 hais3
+瑠	ja1
+瑠瓶	ja1 zua2
+固燦瑠	nual1 cal3 ja1
+瑠丸	ja1 luong3
+目瑠	ke2 ja1
+隣糊目瑠	mo2 wam1 ke2 ja1
+黒目瑠	xua2 ke2 ja1
+泡	se1
+泡巾	se1 ye1
+箔	gu2
+箔筋	gu2 las2
+尖箔筋	wa2 gu2 las2
+箔網	gu2 mua1
+雷筋	main2 las2
+与雷口	tual2 main2 ge2
+金	va2
+銀	tuo3
+銅	qao2
+軽	xao2
+礬	min1
+礬箔	min1 gu2
+黄	da2
+硫	haom3
+固	nual1
+固跡	nual1 kua3
+固心	nual1 nes2
+永固	hes2 nual1
+鉄	hao1
+骨	nes2
+崩骨	xes2 nes2
+病	cun1
+痛	muo2
+痛病	muo2 cun1
+火痛	tang2 muo2
+包	buos1
+包入	buos1 kuam1
+四平包	fai1 xem1 buos1
+等四平包	muos3 fai1 xem1 buos1
+等六平包	muos3 lis3 xem1 buos1
+等八平包	muos3 lu3 xem1 buos1
+等十平包	muos3 tail1 xem1 buos1
+等十八平包	muos3 tail1 lu3 xem1 buos1
+多平包	dua2 xem1 buos1
+包録	buos1 jao2
+痘	za2
+乳痘	tai1 za2
+固痘	nual1 za2
+創	les3
+創人	les3 ha1
+笑	tuam2
+穏	wai1
+非穏	vai1 wai1
+穏穏	wai1 wai1
+医	gais2
+薬	wain3
+糞	ga3
+通	faong3
+通年日	faong3 wais2 kuang1
+通越	faong3 kua2
+通行	faong3 yam1
+常日	xu3 kuang1
+常月	xu3 vo2
+常年	xu3 wais2
+常旭	xu3 ju1
+常夜	xu3 lai1
+尻	caom1
+歯	wil3
+歯肉	wil3 nang2
+食歯	bua1 wil3
+糖	li2
+糖炸	li2 fo2
+糖草	li2 cai1
+糖氷	li2 hua1
+糖丸	li2 luong3
+糖水	li2 so3
+子	gum2
+乳	tai1
+乳庵包	tai1 tang1 buos1
+乳氷	tai1 hua1
+苦	do1
+鼻	suam1
+鼻圧	suam1 mu1
+鼻覆為軽	suam1 fuo2 xel3 xao2
+鼻覆為重	suam1 fuo2 xel3 wan3
+香	guol1
+悪香	dun1 guol1
+香薬	guol1 wain3
+香杖	guol1 qo1
+止	zua3
+止働	zua3 kaing1
+止働日	zua3 kaing1 kuang1
+道止	gim1 zua3
+止逃	zua3 lao3
+重	wan3
+重軽	wan3 xao2
+長短	kail3 waong1
+重思	wan3 sao2
+重気	wan3 sing1
+紙重	nuas2 wan3
+体重	vao3 wan3
+甲	bao3
+乙	wal1
+美	tao2
+美人	tao2 ha1
+板	lai2
+板楽	lai2 yao2
+琥	kai1
+油琥	xu2 kai1
+琥巾	kai1 ye1
+粘	wem1
+油土	xu2 wao2
+粘土	wem1 wao2
+粘琥	wem1 kai1
+粘琥丸	wem1 kai1 luong3
+粘乳	wem1 tai1
+消粘琥	nao2 wem1 kai1
+消琥	nao2 kai1
+瓶	zua2
+垂瓶	huon2 zua2
+鉄瓶	hao1 zua2
+礬瓶	min1 zua2
+琥瓶	kai1 zua2
+気瓶	sing1 zua2
+雷瓶	main2 zua2
+湛雷瓶	tuas1 main2 zua2
+湛雷	tuas1 main2
+高	wing3
+高家	wing3 be1
+車	te1
+力車	nai2 te1
+油力車	xu2 nai2 te1
+雷働力車	main2 kaing1 nai2 te1
+踏馬車	buo1 ti3 te1
+燃馬車	lis1 ti3 te1
+路車	kuo1 te1
+羅道	gan2 gim1
+衆力車	mail2 nai2 te1
+殻車	du2 te1
+機	el2
+飛機	dail2 el2
+戦飛機	bas2 dail2 el2
+回羽飛機	pel1 leng2 dail2 el2
+温区機	tuan2 ning1 el2
+燃輪機	lis1 kaos2 el2
+雷輪機	main2 kaos2 el2
+整気機	lao1 sing1 el2
+遠談機	sal2 xi2 el2
+機談	el2 xi2
+墨印機	hos1 sua1 el2
+影造機	hi2 him2 el2
+戦具	bas2 pai2
+机	las3
+机楽	las3 yao2
+椅	luo3
+立椅	qai1 luo3
+累床	wil1 ming1
+伏椅	se1 luo3
+席	wos2
+求	vao1
+帳	sus3
+帳紐	sus3 vol1
+帳店	sus3 buom1
+集帳家	nem2 sus3 be1
+内帳	yuo2 sus3
+字帳	qo1 sus3
+言帳	bun2 sus3
+楽	yao2
+楽人	yao2 ha1
+楽具	yao2 pai2
+楽戦	yao2 bas2
+飛楽戦	dail2 yao2 bas2
+体労	vao3 po2
+杯	paon1
+杖	qo1
+元杖	sua3 qo1
+温	tuan2
+温杯	tuan2 paon1
+海杯	guan1 paon1
+浄処	xai1 yai1
+浄体	xai1 vao3
+音	jua1
+音板	jua1 lai2
+声	we2
+声声	we2 we2
+飛談	dail2 xi2
+啊声	a3 we2
+知	qai2
+知悉	qai2 xuo1
+算和知	buo2 wom2 qai2
+記習	cuang2 muas1
+習人	muas1 ha1
+数知	mis1 qai2
+事言知	ge3 bun2 qai2
+魂思	num2 sao2
+律知	gis1 qai2
+物律知	kao1 gis1 qai2
+薬律知	wain3 gis1 qai2
+天律知	vas1 gis1 qai2
+衆知	mail2 qai2
+知思	qai2 sao2
+報	wal3
+報紙	wal3 nuas2
+報明	wal3 nu1
+新報	val2 wal3
+報世士	wal3 fua1 la2
+広報	dua1 wal3
+奨報	luo1 wal3
+互知	bal3 qai2
+船	cua3
+衣	nel1
+衣天	nel1 vas1
+脚衣	wo3 nel1
+常衣	xu3 nel1
+団	puo3
+働	kaing1
+働道	kaing1 gim1
+美技	tao2 fe1
+筆技	fa2 fe1
+開働	we1 kaing1
+田働	cin2 kaing1
+人働	ha1 kaing1
+雷働	main2 kaing1
+技	fe1
+宝	kao2
+持宝	peng3 kao2
+信	guo1
+傾信	ta1 guo1
+結	muang1
+結糸	muang1 buo3
+和羅	wom2 gan2
+与	tual2
+与材	tual2 jaim3
+与力	tual2 nai2
+不働	ki1 kaing1
+与力士	tual2 nai2 la2
+与名	tual2 jual1
+湛	tuas1
+多	dua2
+多多	dua2 dua2
+貨	ku1
+貨処	ku1 yai1
+箔貨	gu2 ku1
+紙貨	nuas2 ku1
+雷貨	main2 ku1
+雷貨板	main2 ku1 lai2
+商衆	sang3 mail2
+貨立衆	ku1 qai1 mail2
+湛貨	tuas1 ku1
+働衆	kaing1 mail2
+楽衆	yao2 mail2
+音機	jua1 el2
+耳機	ga2 el2
+奏	qail1
+奏具	qail1 pai2
+掌奏具	hu2 qail1 pai2
+摩奏具	pul1 qail1 pai2
+筒奏具	xum1 qail1 pai2
+奏機	qail1 el2
+危	pais2
+不危	ki1 pais2
+危音	pais2 jua1
+危音機	pais2 jua1 el2
+危報	pais2 wal3
+憤	gua1
+地憤	ho3 gua1
+地憤揺	ho3 gua1 kuan3
+山憤	das1 gua1
+憤山	gua1 das1
+火憤	tang2 gua1
+暗	tu2
+暗隠	tu2 qua1
+暗心	tu2 nes2
+隠	qua1
+並隠	suol3 qua1
+隠曰	qua1 lua1
+隠曰人	qua1 lua1 ha1
+隠言	qua1 bun2
+訓	xal3
+訓宗	xal3 mai1
+論訓	ca1 xal3
+餐論訓	dol3 ca1 xal3
+訓士	xal3 la2
+守	pa3
+守心	pa3 nes2
+守言士	pa3 bun2 la2
+殻丸	du2 luong3
+母	bua2
+夫	paong2
+夫妻	paong2 hang2
+古	puon2
+古事	puon2 ge3
+架	lim1
+談架	xi2 lim1
+架人	lim1 ha1
+壁	di2
+等壁	muos3 di2
+帝	lua2
+帝政軸思	lua2 pel2 gao2 sao2
+帝政国	lua2 pel2 nun2
+民政軸思	zom3 pel2 gao2 sao2
+民政国	zom3 pel2 nun2
+衆持軸思	mail2 peng3 gao2 sao2
+衆持軸思国	mail2 peng3 gao2 sao2 nun2
+態	tus2
+態異	tus2 taom1
+事	ge3
+模	muo1
+模真	muo1 nim3
+由	pis3
+由幹	pis3 man2
+由其	pis3 ce1
+遍	kam2
+遍思	kam2 sao2
+遍人	kam2 ha1
+福	hai1
+被	je1
+違	he2
+違事	he2 ge3
+錯做	cas1 hil3
+錯声	cas1 we2
+錯言	cas1 bun2
+錯言人	cas1 bun2 ha1
+消	nao2
+岐	co3
+岐非	co3 vai1
+岐道	co3 gim1
+法	wel2
+則	cua2
+則法	cua2 wel2
+政則	pel2 cua2
+違則	he2 cua2
+従則	cai1 cua2
+国則	nun2 cua2
+歌	we3
+歌士	we3 la2
+陰	cuam1
+真	nim3
+据魂	mo1 num2
+真居	nim3 bem3
+真事	nim3 ge3
+真言	nim3 bun2
+血	cung2
+血粒	cung2 duol2
+珠血粒	juan2 cung2 duol2
+白血粒	kaing2 cung2 duol2
+閉血粒	gong3 cung2 duol2
+血果	cung2 baon2
+崩	xes2
+永代	hes2 yo2
+一終	wi1 ki3
+崩消	xes2 nao2
+奪	mai2
+奪人	mai2 ha1
+遣	cuo1
+後	tuas2
+新	val2
+新年	val2 wais2
+新日	val2 kuang1
+肌	mua2
+枯肌	son1 mua2
+活区肌	bu2 ning1 mua2
+話肌	cai2 mua2
+顔	ka1
+外顔	hin2 ka1
+乗外顔	wang2 hin2 ka1
+顔影	ka1 hi2
+燃顔	lis1 ka1
+眉	kal2
+目包	ke1 buos1
+包目	buos1 ke1
+流	caos1
+固物	nual1 kao1
+流物	caos1 kao1
+風物	tem3 kao1
+落	jua3
+落食	jua3 bua1
+落喉	jua3 sas2
+落力	jua3 nai2
+跳目	go3 ke1
+目跳	ke1 go3
+睫	we3
+耳	ga2
+撮耳	cao1 ga2
+耳話	ga2 cai2
+頬	do2
+唇	pual1
+燃頬	lis1 do2
+舌	nua1
+結舌	muang1 nua1
+結舌人	muang1 nua1 ha1
+話	cai2
+造話	him2 cai2
+思話	sao2 cai2
+書話士	sua3 cai2 la2
+頤	ji1
+顎	puas2
+額	kua2
+喉	sas2
+喉丸	sas2 luong3
+毛	bes3
+毛毛	bes3 bes3
+髪	wao3
+髭	pail1
+鬚	sa1
+根	kaim1
+根纏	kaim1 dim3
+手根	taos3 kaim1
+足根	yuas1 kaim1
+茎	wo1
+首	cum2
+肩	kuol1
+胸	huon3
+奶	ku3
+腹	qais1
+背	cao3
+縮暗	kuas1 tu2
+膨明	nong1 nu1
+背柱	cao3 paom2
+腕	nol2
+腕脚	nol2 wo3
+腕車	nol2 te1
+腕車士	nol2 te1 la2
+機腕	el2 nol2
+腕機	nol2 el2
+腕行	nol2 yam1
+並	suol3
+脇	guo2
+肘	tim2
+掌	hu2
+掌撃	hu2 ta2
+掌刃	hu2 na1
+掌投	hu2 cil3
+掌狩	hu2 ku2
+指	yuo1
+指廻	yuo1 wang1
+腕廻	nol2 wang1
+脚廻	wo3 wang1
+首垂	cum2 huon2
+指紋	yuo1 fu3
+指印	yuo1 sua1
+一指	wi1 yuo1
+指言	yuo1 bun2
+爪	sin1
+故	don2
+膝	taim1
+踵	laol1
+踵回	laol1 pel1
+踵撃	laol1 ta2
+跂	mua3
+跂先	mua3 taol3
+息	xua3
+涙	kam1
+整鼻	lao1 suam1
+眠食	lo3 bua1
+餐	dol3
+小餐	yao1 dol3
+造餐	him2 dol3
+旭餐	ju1 dol3
+昼餐	tas2 dol3
+夕餐	dom2 dol3
+夜餐	lai1 dol3
+夕	dom2
+眠獣	lo3 mul1
+吹	pang3
+吹薬	pang3 wain3
+悪	dun1
+嘔悪	bai2 dun1
+揺病	kuan3 cun1
+魔	xaing1
+天魔	vas1 xaing1
+病魔	cun1 xaing1
+鬼	lao2
+出	kong3
+入門	kuam1 fuon3
+出門	kong3 fuon3
+入	kuam1
+入和	kuam1 wom2
+入目	kuam1 ke2
+吐	ne2
+吐水	ne2 so3
+地水	ho3 so3
+地温	ho3 tuan2
+嘔	bai2
+吸	wo3
+吸引	wo3 te3
+絞	hai3
+絞結	hai3 muang1
+経	duo3
+店	buom1
+商店	sang3 buom1
+整髪店	lao1 wao3 buom1
+餐店	dol3 buom1
+貨店	ku1 buom1
+貨店機	ku1 buom1 el2
+庵	tang1
+庵癒	tang1 huam2
+眠庵	lo3 tang1
+行庵	yam1 tang1
+活	bu2
+活録	bu2 jao2
+活体	bu2 vao3
+外天活体	hin2 vas1 bu2 vao3
+外天飛機	hin2 vas1 dail2 el2
+活画	bu2 sao1
+動影	we1 hi2
+求活穏	vao1 bu2 wai1
+伴活穏	nuo2 bu2 wai1
+妹	ga1
+姉妹	guong1 ga1
+大妹	qem3 ga1
+弟	i2
+大弟	qem3 i2
+兄	wes2
+兄弟	wes2 i2
+兄姉弟妹	wes2 guong1 i2 ga1
+大兄	qem3 wes2
+父	yais3
+測	vai2
+測目	vai2 ke2
+測門	vai2 fuon3
+測熱	vai2 suo3
+測木	vai2 lung2
+測重	vai2 wan3
+測杯	vai2 paon1
+巻	so2
+巻測	so2 vai2
+巻針	so2 wa1
+平巻針	xem1 so2 wa1
+麺	xuam2
+餅	wai3
+麦餅	qu1 wai3
+米餅	dao3 wai3
+果麦餅	baon2 qu1 wai3
+焼	qa1
+焼麦餅	qa1 qu1 wai3
+汁	puo1
+糖汁	li2 puo1
+果汁	baon2 puo1
+乳油	tai1 xu2
+油焼麦餅	xu2 qa1 qu1 wai3
+乳泡	tai1 se1
+汁麺	puo1 xuam2
+包饅	buos1 gong2
+茶臣	zil1 ze2
+火囲	tang2 dai3
+揺火囲	kuan3 tang2 dai3
+鏡	fun3
+跳鏡	go3 fun3
+折鏡	kuang2 fun3
+鏡瑠	fun3 ja1
+拡	caon3
+消天透	nao2 vas1 li1
+拡録	caon3 jao2
+拡瑠	caon3 ja1
+遠目瑠	sal2 ke2 ja1
+雷目	main2 ke1
+針	wa1
+磁向	kual2 mu3
+針薬	wa1 wain3
+蛆目瑠	buam1 ke2 ja1
+卵	muong1
+卵柑	muong1 tul1
+乳包餅	tai1 buos1 wai3
+上父	ling3 yais3
+上母	ling3 bua2
+鳥	dao2
+犬	ba3
+森犬	yuon1 ba3
+猫	cuom2
+卵周	muong1 fuon2
+卵央	muong1 na2
+平	xem1
+紙平	nuas2 xem1
+平六	xem1 lis3
+平地	xem1 ho3
+平刃	xem1 na1
+浄	xai1
+浄薬	xai1 wain3
+浄衣	xai1 nel1
+衣浄	nel1 xai1
+衣浄機	nel1 xai1 el2
+乾	so1
+乾乏	so1 pum3
+凝乳	wa3 tai1
+乾衣	so1 nel1
+乾餅	so1 wai3
+平丸	xem1 luong3
+日乾	kuang1 so1
+乾魔	so1 xaing1
+浄手	xai1 taos3
+浄蛆	xai1 buam1
+玉	kuon3
+瑠玉	ja1 kuon3
+果油	baon2 xu2
+炸餐	fo2 dol3
+酒	wes1
+血酒	cung2 wes1
+握	suom3
+握絞	suom3 hai3
+踏絞	buo1 hai3
+掃	dua3
+掃出	dua3 kong3
+浄掃	xai1 dua3
+整爪	lao1 sin1
+雨掃	huo1 dua3
+味	nuo3
+倫味	tuo2 nuo3
+悪味	dun1 nuo3
+虚味	ua3 nuo3
+大味人	qem3 nuo3 ha1
+集	nem2
+集集	nem2 nem2
+集巻	nem2 so2
+慶	nu3
+慶新年	nu3 val2 wais2
+敬	wang3
+焉	da1
+片	pi1
+一片	wi1 pi1
+態一片	tus2 wi1 pi1
+片数	pi1 mis1
+肉片	nang2 pi1
+片箔	pi1 gu2
+礬箔巾	min1 gu2 ye1
+金巾	va2 ye1
+動	we1
+巡行	kaol2 yam1
+巡行力	kaol2 yam1 nai2
+籠	duon3
+筆籠	fa2 duon3
+衣籠	nel1 duon3
+物	kao1
+居数	bem3 mis1
+探	ung1
+尋蔓	fu2 ton2
+花	xas1
+算	buo2
+算字	buo2 qo1
+声字	we2 qo1
+雷算機	main2 buo2 el2
+律知雷算機	gis1 qai2 main2 buo2 el2
+集算	nem2 buo2
+消算	nao2 buo2
+多算	dua2 buo2
+刃算	na1 buo2
+集累	nem2 wil1
+名数	jual1 mis1
+落数	jua3 mis1
+斉数	vang2 mis1
+穏眠	wai1 lo3
+蒼	co2
+遠蒼光	sal2 co2 mam3
+遠赤光	sal2 was1 mam3
+春	tao1
+豊	nua3
+豊貨	nua3 ku1
+豊時	nua3 tua2
+豊心	nua3 nes2
+白月	kaing2 vo2
+黒月	xua2 vo2
+夏	cis3
+葉	pua3
+思葉	sao2 pua3
+葉士	pua3 la2
+幹士	man2 la2
+秋	mel1
+秋兵	mel1 nal3
+冬	son2
+名	jual1
+名令	jual1 puan3
+名記	jual1 cuang2
+事言	ge3 bun2
+跳入	go3 kuam1
+跳出	go3 kong3
+緑	dual1
+宇緑	duo1 dual1
+軽草	xao2 cai1
+定	lua3
+定魂	lua3 num2
+定固	lua3 nual1
+測標	vai2 dai1
+整珠	lao1 juan2
+珠端	juan2 zing1
+静数	fi3 mis1
+珠静	juan2 fi3
+湛律	tuas1 gis1
+十湛律	tail1 tuas1 gis1
+十四湛律	tail1 fai1 tuas1 gis1
+二湛律	buan3 tuas1 gis1
+甲湛律	bao3 tuas1 gis1
+弓	yus2
+弩	sai1
+据弩	mo1 sai1
+吹弩	pang3 sai1
+吹拘	pang3 huan3
+弓弩	yus2 sai1
+据	mo1
+据物	mo1 kao1
+与据	tual2 mo1
+据処	mo1 yai1
+立火	qai1 tang2
+据火弩	mo1 tang2 sai1
+弩丸	sai1 luong3
+据隣	mo1 mo2
+珠	juan2
+珠花	juan2 xas1
+羅	gan2
+衆羅	mail2 gan2
+数羅	mis1 gan2
+取	je3
+取片	je3 pi1
+取砕	je3 pao3
+東	ka2
+西	hu1
+西地	hu1 ho3
+賜	jel2
+賜病	jel2 cun1
+賜善	jel2 uas1
+南	zing3
+魚	bi2
+細魚	sam2 bi2
+豚魚	xe1 bi2
+揺	kuan3
+揺眠子	kuan3 lo3 gum2
+揺糸	kuan3 buo3
+揺時斉	kuan3 tua2 vang2
+金透	va2 li1
+夕明	dom2 nu1
+曙明	zas3 nu1
+飛揺	dail2 kuan3
+宇	duo1
+宇雲背	duo1 pu2 cao3
+宇火	duo1 tang2
+天宇	vas1 duo1
+天巾	vas1 ye1
+雷録	main2 jao2
+宇地	duo1 ho3
+家覆	be1 fuo2
+返	buo1
+返内	buo1 yuo2
+返平	buo1 xem1
+異	taom1
+異外	taom1 hin2
+取重	je3 wan3
+等斉	muos3 vang2
+異国	taom1 nun2
+異言	taom1 bun2
+異真	taom1 nim3
+蛇	keng3
+蛇歩	keng3 kua1
+蟾	zua1
+蟾蛇	zua1 keng3
+翠	zao2
+翠玉	zao2 kuon3
+彩	guo3
+彩言	guo3 bun2
+彩銀影	guo3 tuo3 hi2
+明暗銀影	nu1 tu2 tuo3 hi2
+季	wai3
+倫季	tuo2 wai3
+地季	ho3 wai3
+黒	xua2
+重黒石	wan3 xua2 hais3
+旬	gaos2
+隣旬	mo2 gaos2
+非	vai1
+非法	vai1 wel2
+矢	ka3
+論	ca1
+建論	xes1 ca1
+論正	ca1 fua3
+小論	yao1 ca1
+非論	vai1 ca1
+頂	su3
+頂処	su3 yai1
+茶	zil1
+縦	nuan1
+縦行	nuan1 yam1
+横	mao1
+序	bi1
+回多	pel1 dua2
+序多	bi1 dua2
+序交	bi1 wi3
+序羅	bi1 gan2
+一序	wi1 bi1
+開端	we1 zing1
+後序	tuas2 bi1
+後端	tuas2 zing1
+在一	suo2 wi1
+下序	ya3 bi1
+上序	ling3 bi1
+序日	bi1 kuang1
+序追	bi1 yuon2
+可	fai2
+於	e1
+恒	duang2
+恒天	duang2 vas1
+汲	bi3
+汲水機	bi3 so3 el2
+汲録	bi3 jao2
+注	puong3
+豊注	nua3 puong3
+注気	puong3 sing1
+注録	puong3 jao2
+録	jao2
+録記	jao2 cuang2
+万悉録	ao1 xuo1 jao2
+商	sang3
+不商	ki1 sang3
+商買	sang3 kaom2
+商物	sang3 kao1
+商廻	sang3 wang1
+雪	nan1
+冷	pil1
+冷揺	pil1 kuan3
+恒冷籠	duang2 pil1 duon3
+函氷籠	mai3 hua1 duon3
+老	go1
+仙	taing3
+宗仙	mai1 taing3
+宗国	mai1 nun2
+宗言	mai1 bun2
+古仙	puon2 taing3
+奏仙	qail1 taing3
+夏頂	cis3 su3
+冬頂	son2 su3
+春等	tao1 muos3
+秋等	mel1 muos3
+億	tu3
+魂	num2
+而魂	le3 num2
+心浪	nes2 hus3
+詞魂	zang1 num2
+明	nu1
+明暗	nu1 tu2
+明目	nu1 ke1
+解明	wim1 nu1
+軸	gao2
+軸思	gao2 sao2
+軸手	gao2 taos3
+外手	hin2 taos3
+左手	wo1 taos3
+右手	van3 taos3
+軸都	gao2 tal2
+善	uas1
+善穏	uas1 wai1
+基善	len1 uas1
+善人	uas1 ha1
+囲	dai3
+囲土	dai3 wao2
+憐	qo2
+紋	fu3
+五天紋	luong1 vas1 fu3
+五天風	luong1 vas1 tem3
+砕	pao3
+砕目	pao3 ke2
+小砕遊天	yao1 pao3 dao1 vas1
+砕遊天集	pao3 dao1 vas1 nem2
+酸	tas1
+酸様	tas1 tuam3
+灰様	da3 tuam3
+有	no2
+有福	no2 hai1
+虚	ua3
+消虚	nao2 ua3
+虚湛	ua3 tuas1
+虚気	ua3 sing1
+央虚	na2 ua3
+妻	hang2
+跨	yum1
+跨行	yum1 yam1
+国跨	nun2 yum1
+或	gai1
+或人	gai1 ha1
+或時	gai1 tua2
+或処	gai1 yai1
+曰	lua1
+曰善	lua1 uas1
+曰名	lua1 jual1
+遠曰	sal2 lua1
+神臣	to2 ze2
+遠曰士	sal2 lua1 la2
+報兵	wal3 nal3
+上曰	ling3 lua1
+買	kaom2
+行買	yam1 kaom2
+蔓行買	ton2 yam1 kaom2
+汚	gaim2
+柑	tul1
+柑果	tul1 baon2
+柑酸	tul1 tas1
+概	tam1
+概位	tam1 dun2
+従	cai1
+従天	cai1 vas1
+従揺	cai1 kuan3
+徒	bao2
+傾	ta1
+傾筋	ta1 las2
+傾道	ta1 gim1
+上傾	ling3 ta1
+下傾	ya3 ta1
+少	hain1
+多貨	dua2 ku1
+多貨餐	dua2 ku1 dol3
+少貨	hain1 ku1
+備	can2
+備魂	can2 num2
+備据	can2 mo1
+深	xai2
+深宇	xai2 duo1
+青宇	qai3 duo1
+深思	xai2 sao2
+憶	mul2
+憶事	mul2 ge3
+憶顔	mul2 ka1
+探憶	ung1 mul2
+憶覚	mul2 kai2
+以	nao3
+以由	nao3 pis3
+爾	si1
+昆	qi1
+昆名	qi1 jual1
+昆宇	qi1 duo1
+血昆	cung2 qi1
+庵昆	tang1 qi1
+蔓	ton2
+蔓談	ton2 xi2
+蔓網	ton2 mua1
+席蔓	wos2 ton2
+遠蔓	sal2 ton2
+貝	jao1
+貝殻	jao1 du2
+態拡貝	tus2 caon3 jao1
+貝気材	jao1 sing1 jaim3
+貝気水	jao1 sing1 so3
+貝気糖水	jao1 sing1 li2 so3
+和	wom2
+和等	wom2 muos3
+纏	dim3
+纏物	dim3 kao1
+不纏	ki1 dim3
+貨纏	ku1 dim3
+焼纏	qa1 dim3
+炸餐焼纏	fo2 dol3 qa1 dim3
+炸餐焼纏好人	fo2 dol3 qa1 dim3 wam3 ha1
+纏衣	dim3 nel1
+炸	fo2
+到	tel1
+唯	gua3
+洞	zaos2
+暗洞	tu2 zaos2
+汲洞	bi3 zaos2
+而	le3
+建	xes1
+建集	xes1 nem2
+地建	ho3 xes1
+建材	xes1 jaim3
+掃建	dua3 xes1
+瓦方	weng3 zung2
+建字	xes1 qo1
+建家	xes1 be1
+建火	xes1 tang2
+恐	ci2
+怪	no3
+怪力	no3 nai2
+怪力士	no3 nai2 la2
+怪力女	no3 nai2 zi1
+怪恐	no3 ci2
+祈	zuo1
+神祈	to2 zuo1
+蟾神祈	zua1 to2 zuo1
+赦	muas2
+成	ba2
+成真	ba2 nim3
+弱	sul2
+乏	pum3
+乏息	pum3 xua3
+不乏	ki1 pum3
+外	hin2
+外而	hin2 le3
+外平	hin2 xem1
+外或	hin2 gai1
+外人	hin2 ha1
+拘	huan3
+湛拘	tuas1 huan3
+湛拘力	tuas1 huan3 nai2
+函	mai3
+函餐	mai3 dol3
+函車	mai3 te1
+函車処	mai3 te1 yai1
+函家	mai3 be1
+函机	mai3 las3
+帳函	sus3 mai3
+掘	zol1
+掘士	zol1 la2
+掘道	zol1 gim1
+桜	tuo1
+桜玉	tuo1 kuon3
+桜彩	tuo1 guo3
+間	tu1
+一間	wi1 tu1
+跨一間	yum1 wi1 tu1
+小間	yao1 tu1
+間止	tu1 zua3
+並間止	suol3 tu1 zua3
+並虚間止	suol3 ua3 tu1 zua3
+間目	tu1 ke2
+強	de2
+強指	de2 yuo1
+取指	je3 yuo1
+軸指	gao2 yuo1
+伏指	se1 yuo1
+弱指	sul2 yuo1
+悾	xual3
+菜	jul3
+菜草	jul3 cai1
+菜田	jul3 cin2
+悉	xuo1
+非悉	vai1 xuo1
+悉活	xuo1 bu2
+悉豊	xuo1 nua3
+万国	ao1 nun2
+悉国	xuo1 nun2
+忘	zang1
+逃	lao3
+逃穏	lao3 wai1
+逃心	lao3 nes2
+尋	fu2
+尋選	fu2 gu1
+尋楽	fu2 yao2
+未	tum3
+未解	tum3 wim1
+解	wim1
+解隠	wim1 qua1
+解行	wim1 yam1
+北	po2
+北端	po2 zing1
+南端	zing3 zing1
+巨	nual2
+日声	kuang1 we2
+月声	vo2 we2
+包月声	buos1 vo2 we2
+吹月声	pang3 vo2 we2
+隣月声	mo2 vo2 we2
+鼻月声	suam1 vo2 we2
+哉	ye2
+尾	mul1
+機尾	el2 mul1
+有尾	no2 mul1
+虚尾	ua3 mul1
+端	zing1
+行端	yam1 zing1
+絞糖	hai3 li2
+上端	ling3 zing1
+下端	ya3 zing1
+地端	ho3 zing1
+落立	jua3 qai1
+囲端	dai3 zing1
+端虚	zing1 ua3
+刺	din2
+少拠	hain1 cang2
+多拠	dua2 cang2
+糊	wam1
+糊粘	wam1 wem1
+糊糊	wam1 wam1
+二追動兵	buan3 yuon2 we1 nal3
+蜘	wos3
+蜘網拘蜘	wos3 mua1 huan3 wos3
+蜘虫	wos3 cuo2
+到天落地	tel1 vas1 jua3 ho3
+到天	tel1 vas1
+落地	jua3 ho3
+霞	pes1
+霞風	pes1 tem3
+沙霞	wam2 pes1
+沙霞瑠	wam2 pes1 ja1
+乾霞	so1 pes1
+熱霞	suo3 pes1
+霞糊	pes1 wam1
+熱霞働車	suo3 pes1 kaing1 te1
+煙	wail2
+曰煙	lua1 wail2
+小書	yao1 sua3
+曰報	lua1 wal3
+太	to2
+蔔	nom2
+丸蔔	luong3 nom2
+燦	cal3
+燦燦	cal3 cal3
+細	sam2
+閉	gong3
+閉口	gong3 ge2
+閉道	gong3 gim1
+閉架	gong3 lim1
+阻	zuam1
+阻事	zuam1 ge3
+阻壁	zuam1 di2
+影	hi2
+煙影	wail2 hi2
+画影	sao1 hi2
+影造	hi2 him2
+影做	hi2 hil3
+廻	wang1
+廻暗	wang1 tu2
+廻怪	wang1 no3
+流廻	caos1 wang1
+越廻	kua2 wang1
+溢熱	ual2 suo3
+廻深	wang1 xai2
+地回	ho3 pel1
+地廻	ho3 wang1
+談	xi2
+庵談	tang1 xi2
+談書	xi2 sua3
+雑	qun2
+雑昆	qun2 qi1
+雑数	qun2 mis1
+整数片	lao1 mis1 pi1
+雑数片	qun2 mis1 pi1
+雑餐	qun2 dol3
+浮	muong2
+浮手	muong2 taos3
+浮働	muong2 kaing1
+浮上時	muong2 ling3 tua2
+浮知	muong2 qai2
+浮開	muong2 we1
+浮開事	muong2 we1 ge3
+浮開出門	muong2 we1 kong3 fuon3
+気囊	sing1 nil2
+気囊船	sing1 nil2 cua3
+島	xo1
+角地	han1 ho3
+軸島	gao2 xo1
+島羅	xo1 gan2
+砕島	pao3 xo1
+兎	xuo3
+歪	kas2
+歪珠	kas2 juan2
+道歪	gim1 kas2
+奇	tus1
+牛	ma1
+牛乳	ma1 tai1
+緩	yua3
+成緩	ba2 yua3
+虚時	ua3 tua2
+虚時巡行	ua3 tua2 kaol2 yam1
+緩眠	yua3 lo3
+成緩眠	ba2 yua3 lo3
+囊	nil2
+行囊	yam1 nil2
+琥巾囊	kai1 ye1 nil2
+衣囊	nel1 nil2
+知拘	qai2 huan3
+原	zan3
+乾地	so1 ho3
+熱原	suo3 zan3
+浸原	bal1 zan3
+原田	zan3 cin2
+川累	huo2 wil1
+筒	xum1
+血筒	cung2 xum1
+路	kuo1
+雷路	main2 kuo1
+水路	so3 kuo1
+水路架	so3 kuo1 lim1
+水路筒	so3 kuo1 xum1
+注水路	puong3 so3 kuo1
+吐水路	ne2 so3 kuo1
+行路	yam1 kuo1
+赤路	was1 kuo1
+黒路	xua2 kuo1
+幹赤路	man2 was1 kuo1
+幹黒路	man2 xua2 kuo1
+幹	man2
+幹開	man2 we1
+上幹	ling3 man2
+葉子	pua3 gum2
+不幹	ki1 man2
+幹子	man2 gum2
+幹男	man2 ti1
+幹女	man2 zi1
+通子	faong3 gum2
+通男	faong3 ti1
+通女	faong3 zi1
+幹基	man2 len1
+川幹	huo2 man2
+律	gis1
+算律	buo2 gis1
+等算律	muos3 buo2 gis1
+遊数律	dao1 mis1 gis1
+筆律	fa2 gis1
+天律	vas1 gis1
+暁天律	mi1 vas1 gis1
+日天天律	kuang1 vas1 vas1 gis1
+月天天律	vo2 vas1 vas1 gis1
+遍律	kam2 gis1
+泰	lo2
+泰道	lo2 gim1
+恒泰	duang2 lo2
+崩泰	xes2 lo2
+崩泰人	xes2 lo2 ha1
+具	pai2
+書具	sua3 pai2
+餐具	dol3 pai2
+溢	ual2
+溢浸	ual2 bal1
+流溢	caos1 ual2
+溢日	ual2 kuang1
+大溢日	qem3 ual2 kuang1
+且	dem2
+不且	ki1 dem2
+飾	pum1
+紋飾	fu3 pum1
+飾彩	pum1 guo3
+飾彩音	pum1 guo3 jua1
+飾川石	pum1 huo2 hais3
+投	cil3
+投憤	cil3 gua1
+投目	cil3 ke2
+習	muas1
+回習	pel1 muas1
+回習尋	pel1 muas1 fu2
+習帳	muas1 sus3
+高習処	wing3 muas1 yai1
+唯一	gua3 wi1
+散	cum3
+散落	cum3 jua3
+散時	cum3 tua2
+散撃戦	cum3 ta2 bas2
+散撃兵	cum3 ta2 nal3
+散遍	cum3 kam2
+散筒	cum3 xum1
+燧	fil2
+燧火	fil2 tang2
+燧天	fil2 vas1
+口吹燧火	ge2 pang3 fil2 tang2
+雷燧	main2 fil2
+墨	hos1
+墨父	hos1 yais3
+墨人	hos1 ha1
+記人	cuang2 ha1
+紋墨	fu3 hos1
+墨箔	hos1 gu2
+画墨	sao1 hos1
+互	bal3
+互子	bal3 gum2
+昴子	som2 gum2
+互談	bal3 xi2
+等互	muos3 bal3
+衝	suan2
+衝落	suan2 jua3
+衝舌	suan2 nua1
+互撃	bal3 ta2
+撃	ta2
+撃耳	ta2 ga2
+撃絞	ta2 hai3
+宇撃	duo1 ta2
+区	ning1
+活区	bu2 ning1
+壁区	di2 ning1
+区互	ning1 bal3
+方	zung2
+整方	lao1 zung2
+方包	zung2 buos1
+等方包	muos3 zung2 buos1
+踏	buo1
+踏憤	buo1 gua1
+踏揺	buo1 kuan3
+踏踏	buo1 buo1
+凝	wa3
+肉凝	nang2 wa3
+凝石	wa3 hais3
+柱	paom2
+柱壁	paom2 di2
+高握	wing3 suom3
+枯	son1
+枯魂	son1 num2
+箔枯	gu2 son1
+枯彩	son1 guo3
+羊	cam1
+馬	ti3
+茸	juo2
+垂	huon2
+垂下	huon2 ya3
+釣	xuang2
+釣魚	xuang2 bi2
+釣魚針	xuang2 bi2 wa1
+魚杖	bi2 qo1
+釣宝楽	xuang2 kao2 yao2
+灯	puang3
+道灯	gim1 puang3
+帝灯火	lua2 puang3 tang2
+苗	weng2
+育苗雨	yun1 weng2 huo1
+苗菜	weng2 jul3
+苗子	weng2 gum2
+曙	zas3
+常	xu3
+外常	hin2 xu3
+輪	kaos2
+輪巻	kaos2 so2
+流輪	caos1 kaos2
+風輪	tem3 kaos2
+垂輪	huon2 kaos2
+累	wil1
+累算	wil1 buo2
+土累	wao2 wil1
+磁	kual2
+磁力	kual2 nai2
+引磁	te3 kual2
+雷引磁	main2 te3 kual2
+常引磁	xu3 te3 kual2
+北磁	po2 kual2
+南磁	zing3 kual2
+引	te3
+元引	sua3 te3
+引車	te3 te1
+引昇	te3 dai2
+引手	te3 taos3
+引手士	te3 taos3 la2
+垂引	huon2 te3
+百弓千思	pai2 yus2 tuong2 sao2
+釘	hong2
+紙釘	nuas2 hong2
+回釘	pel1 hong2
+沙	wam2
+沙跨	wam2 yum1
+沙園	wam2 qua3
+様	tuam3
+様位	tuam3 dun2
+人様	ha1 tuam3
+顔様	ka1 tuam3
+箔様	gu2 tuam3
+士	la2
+商士	sang3 la2
+働士	kaing1 la2
+唔	um2
+標	dai1
+標風	dai1 tem3
+標石	dai1 hais3
+標数	dai1 mis1
+斉	vang2
+整土	lao1 wao2
+薄	gail3
+高薄	wing3 gail3
+勺	sa2
+匙	sa2
+汲匙	bi3 sa2
+掘匙	zol1 sa2
+許	muo3
+許書	muo3 sua3
+許通	muo3 faong3
+求許	vao1 muo3
+許入	muo3 kuam1
+選	gu1
+選許	gu1 muo3
+測尋	vai2 fu2
+選壁	gu1 di2
+跡	kua3
+来跡	huas3 kua3
+踏跡	buo1 kua3
+酔	bual1
+酔気	bual1 sing1
+酒酔	wes1 bual1
+酔歩暗伏	bual1 kua1 tu2 se1
+城	was2
+勇	tua1
+魂勇	num2 tua1
+注涙於海	puong3 kam1 e1 guan1
+折	kuang2
+位	dun2
+上位	ling3 dun2
+下位	ya3 dun2
+位処	dun2 yai1
+折位	kuang2 dun2
+垂折	huon2 kuang2
+廻折	wang1 kuang2
+静折	fi3 kuang2
+塵	sin2
+塵累沙隠	sin2 wil1 wam2 qua1
+雑塵	qun2 sin2
+雑塵籠	qun2 sin2 duon3
+片塵	pi1 sin2
+畳	zao3
+土畳	wao2 zao3
+畳音	zao3 jua1
+畳多	zao3 dua2
+畳多解	zao3 dua2 wim1
+葱	wong1
+尖葱	wa2 wong1
+垂葱	huon2 wong1
+葱菜	wong1 jul3
+畳葱	zao3 wong1
+哀	wi2
+遠哀	sal2 wi2
+客	duam1
+客筆	duam1 fa2
+浮客	muong2 duam1
+伏	se1
+伏揺	se1 kuan3
+夢	yua2
+錯	cas1
+不錯	ki1 cas1
+埋	lo1
+埋羅道	lo1 gan2 gim1
+浸	bal1
+浸彩	bal1 guo3
+愛	mua2
+愛憐	mua2 qo2
+愛人	mua2 ha1
+愛互	mua2 bal3
+覚	kai2
+覚霞	kai2 pes1
+覚明	kai2 nu1
+癒	huam2
+癒字	huam2 qo1
+癒家	huam2 be1
+薬店	wain3 buom1
+易	cuas1
+易撮	cuas1 cao1
+易白	cuas1 kaing2
+易筆法	cuas1 fa2 wel2
+正筆法	fua3 fa2 wel2
+奨	luo1
+奨人	luo1 ha1
+集奨	nem2 luo1
+与奨	tual2 luo1
+奨貨	luo1 ku1
+育	yun1
+育食	yun1 bua1
+育栄	yun1 fun1
+唱	kuo3
+唱曰	kuo3 lua1
+強唱	de2 kuo3
+檻	wo2
+拘檻	huan3 wo2
+宝檻	kao2 wo2
+檻画仙	wo2 sao1 taing3
+膨	nong1
+熱赤	suo3 was1
+肺熱	se2 suo3
+脳熱	ha3 suo3
+肌熱	mua2 suo3
+目熱	ke1 suo3
+和膨	wom2 nong1
+膨位	nong1 dun2
+広位	dua1 dun2
+海膨	guan1 nong1
+海縮	guan1 kuas1
+育膨	yun1 nong1
+肺	se2
+肺筒	se2 xum1
+肺臓	se2 dais2
+撮	cao1
+撮撮	cao1 cao1
+撮取	cao1 je3
+撮具	cao1 pai2
+紙撮	nuas2 cao1
+髪撮	wao3 cao1
+霊	duom2
+霊鬼	duom2 lao2
+地霊	ho3 duom2
+臣	ze2
+隣臣	mo2 ze2
+下臣	ya3 ze2
+昴	som2
+昴天集	som2 vas1 nem2
+昴衆	som2 mail2
+昴談	som2 xi2
+昴粒	som2 duol2
+弱粒	sul2 duol2
+己	dua2
+従己	cai1 dua2
+従下己	cai1 ya3 dua2
+融	luos2
+熱融	suo3 luos2
+融流	luos2 caos1
+絞平	hai3 xem1
+砕融	pao3 luos2
+砕融肉	pao3 luos2 nang2
+焦	wai1
+暁焦	mi1 wai1
+敏	pun2
+敏緩	pun2 yua3
+敏雨	pun2 huo1
+麦	qu1
+麦粉	qu1 zo2
+角	han1
+角字	han1 qo1
+角言	han1 bun2
+握角	suom3 han1
+垂角	huon2 han1
+角麦	han1 qu1
+砕麦	pao3 qu1
+暇	ne3
+暇日	ne3 kuang1
+不来	ki1 huas3
+暇楽	ne3 yao2
+暇楽領	ne3 yao2 ba1
+混	pu3
+混投	pu3 cil3
+投数	cil3 mis1
+混位	pu3 dun2
+斉混	vang2 pu3
+混談	pu3 xi2
+沸	mual1
+沸跨	mual1 yum1
+融跨	luos2 yum1
+沸杯	mual1 paon1
+栽	jo2
+栽草	jo2 cai1
+栽田	jo2 cin2
+羽	leng2
+回羽	pel1 leng2
+冷羽	pil1 leng2
+羽紙	leng2 nuas2
+羽巾	leng2 ye1
+落羽紙	jua3 leng2 nuas2
+尖	wa2
+尖果	wa2 baon2
+尖光	wa2 mam3
+紐	vol1
+箔紐	gu2 vol1
+単	ce1
+単一	ce1 wi1
+単人	ce1 ha1
+清単	su1 ce1
+単政	ce1 pel2
+軟	kul3
+軟軟	kul3 kul3
+軟思	kul3 sao2
+弱軟	sul2 kul3
+浪	hus3
+浪海	hus3 guan1
+撃浪	ta2 hus3
+摩	pul1
+摩米	pul1 dao3
+摩流	pul1 caos1
+澄	nuang1
+明澄	nu1 nuang1
+短	waong1
+泊	jung2
+飛泊	dail2 jung2
+暇泊	ne3 jung2
+令	puan3
+令領	puan3 ba1
+令領人	puan3 ba1 ha1
+令唱	puan3 kuo3
+覆	fuo2
+手覆	taos3 fuo2
+床	ming1
+秀	le2
+秀倫	le2 tuo2
+殻	du2
+覆殻	fuo2 du2
+掌殻	hu2 du2
+頭殻	mum2 du2
+脳殻骨	ha3 du2 nes2
+劈	kuo2
+二劈	buan3 kuo2
+緻	pa3
+車緻	te1 pa3
+緻走	pa3 wem2
+緻録	pa3 jao2
+緻函	pa3 mai3
+緻正	pa3 fua3
+湖	dual3
+投湖	cil3 dual3
+巡	kaol2
+巡掃	kaol2 dua3
+枝	da1
+抽	luo2
+抽釘	luo2 hong2
+抽言	luo2 bun2
+掘抽	zol1 luo2
+滴	tai2
+滴玉	tai2 kuon3
+芋	sua2
+丘芋	zo3 sua2
+丘芋粉	zo3 sua2 zo2
+糖芋	li2 sua2
+饅	gong2
+饅丸	gong2 luong3
+縮	kuas1
+冠	lon2
+幕	lan2
+雨幕	huo1 lan2
+幕整	lan2 lao1
+幕衣	lan2 nel1
+彩幕	guo3 lan2
+暁幕	mi1 lan2
+泳	po1
+航	tum3
+瓦	weng3
+瓦皿	weng3 puang1
+畳瓦	zao3 weng3
+毒	bis1
+毒算序	bis1 buo2 bi1
+悪毒	dun1 bis1
+柿	je2
+柿果	je2 baon2
+乾柿	so1 je2
+乾果	so1 baon2
+希	yual3
+希道	yual3 gim1
+求定	vao1 lua3
+嵌	mun2
+入嵌	kuam1 mun2
+鰻	duang2
+川鰻	huo2 duang2
+沙鰻	wam2 duang2
+彩鰻	guo3 duang2
+北曙	po2 zas3
+南曙	zing3 zas3
+労	po2
+乾労	so1 po2
+蝦	kuang3
+蝦魚	kuang3 bi2
+柳	xail1
+抱	mao3
+詞	zang1
+業	yal1
+明業	nu1 yal3
+明業灯	nu1 yal3 puang3
+業向	yal1 mu3
+遼	wom1
+蛆	buam1
+艶	dung3
+艶架	dung3 lim1
+彩艶	guo3 dung3
+艶瑠	dung3 ja1
+艶瑠嵌目	dung3 ja1 mun2 ke1

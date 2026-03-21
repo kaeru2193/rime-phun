@@ -1,0 +1,86 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: phun
+  name: 栄言
+  version: "2026.03.21"
+  author:
+    - kaeru2193
+  description: |
+    an Rime schema for Phun language
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: ["栄字", "定字"]
+  - name: buoqo
+    reset: 0
+    states: ["算字", "栄字"]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - echo_translator
+    - punct_translator
+    - script_translator
+  filters:
+    - lua_filter@Buoqo_filter
+
+menu:
+  alternative_select_keys: ASDFG
+style:
+  font_face: "PhunSans Sans-Rounded, PhunDot"
+  comment_font_face: "PhunSans Sans-Rounded, PhunDot"
+
+speller:
+  alphabet: "abcdefghijklmnopqstuvwxyz123"
+  initials: "abcdefghijklmnopqstuvwxyz"
+  algebra:
+    - abbrev/^([a-z]+)[123]$/$1/
+
+punctuator:
+  half_shape:
+    "1" : 〡
+    "2" : 〢
+    "3" : 〣
+    "4" : 〤
+    "5" : 〥
+    "6" : 〦
+    "7" : 〧
+    "8" : 〨
+    "9" : 〩
+    "0" : 〹
+    "-" : 〺
+    "=" : 〇
+    "," : 、
+    "." : 。
+    "?" : ？
+    "!" : ！
+
+translator:
+  dictionary: phun
+  preedit_format:
+    - "xform/([a-z]*)ai/$1E/"
+    - "xform/([a-z]*)ao/$1O/"
+    - "xform/([a-z]*)ua/$1A/"
+    - "xform/([a-z]*)uo/$1U/"
+    - "xform/([a-z]*)s(\\d?)\\b/$1$2S/"
+    - "xform/([a-z]*)l(\\d?)\\b/$1$2L/"
+    - "xform/([a-z]*)m(\\d?)\\b/$1$2M/"
+    - "xform/([a-z]*)n(\\d?)\\b/$1$2N/"
+    - "xform/([a-z]*)ng(\\d?)\\b/$1$2G/"
